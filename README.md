@@ -1,4 +1,4 @@
-# Hi, I am [Your Name] 👋
+# Hi, I am Naveen 👋
 
 ### Full Stack Developer and a Freelancer
 
