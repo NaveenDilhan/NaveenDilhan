@@ -8,7 +8,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=your-profile&label=Profile%20views)](https://github.com/your-profile)
 
 ### What I do
-👨‍💻 I'm currently working as a [Your Job Title] at [Company Name].
+👨‍💻 I'm currently learning as a Undergraduate in Plymouth University
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-profile&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-profile&layout=compact&theme=radical)
