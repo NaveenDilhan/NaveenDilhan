@@ -3,7 +3,7 @@
 ### Full Stack Developer and a Freelancer
 
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/NaveenDilhan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/naveen-wickramasinghe-507a15297/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:naveendilhanwic@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=your-profile&label=Profile%20views)](https://github.com/NaveenDilhan)
 
