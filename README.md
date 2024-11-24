@@ -8,7 +8,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=your-profile&label=Profile%20views)](https://github.com/NaveenDilhan)
 
 ### What I do
-👨‍💻 I'm currently learning as an Undergraduate in Plymouth University
+👨‍💻 I'm currently learning as an Undergraduate at Plymouth University. 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NaveenDilhan&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenDilhan&layout=compact&theme=radical)
