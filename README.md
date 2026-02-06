@@ -1,82 +1,71 @@
-# Hi, I am Naveen Dilhan Wickramsinghe👋
+<div align="center">
 
-### Full Stack Developer and a Freelancer
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <h1>Hi there, I'm Naveen Dilhan Wickramsinghe</h1>
 
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/NaveenDilhan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/naveen-wickramasinghe-507a15297/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:naveendilhanwic@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=your-profile&label=Profile%20views)](https://github.com/NaveenDilhan)
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3F51B5&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Freelancer;Undergraduate+@+Plymouth+Uni;Open+Source+Enthusiast" alt="Typing SVG" />
+  </a>
+  
+  <br/>
 
-### What I do
-👨‍💻 I'm currently learning as an Undergraduate at Plymouth University. 
+  <p>
+    <a href="https://github.com/NaveenDilhan">
+      <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="https://www.linkedin.com/in/naveen-wickramasinghe-507a15297/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:naveendilhanwic@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+  </p>
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NaveenDilhan&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenDilhan&layout=compact&theme=radical)
+---
 
-### Programming Languages
+### 👨‍💻 About Me
 
-<p align="center">
-    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/Node.js-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-    <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-</p>
+- 🎓 I'm currently an Undergraduate at **Plymouth University**.
+- 💻 I’m working on **Full Stack Web Development** projects.
+- 🚀 I’m currently learning **Advanced React Patterns** and **Cloud Architecture**.
+- 💬 Ask me about **Java, Angular, or Node.js**.
+- 📫 How to reach me: **naveendilhanwic@gmail.com**
 
-### Operating Systems
+---
 
-<p align="center">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-    <img src="https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-</p>
+### 🛠️ Tech Stack
 
-### Databases
+<div align="center">
 
-<p align="center">
-    <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-    <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-    <img src="https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-</p>
+| **Frontend** | **Backend** | **Mobile & Languages** |
+|:---:|:---:|:---:|
+| ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) <br/> ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white) <br/> ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) <br/> ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-43853D.svg?style=flat-square&logo=node.js&logoColor=white) <br/> ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) <br/> ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) | ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white) <br/> ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=flat-square&logo=android&logoColor=white) |
 
-### Cloud Services
+| **Database** | **Cloud & DevOps** | **Tools & Design** |
+|:---:|:---:|:---:|
+| ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) <br/> ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=flat-square&logo=oracle&logoColor=white) <br/> ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) | ![AWS](https://img.shields.io/badge/Amazon%20AWS-%23232F3E.svg?style=flat-square&logo=amazon-aws&logoColor=white) <br/> ![GCP](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) <br/> ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white) | ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) <br/> ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) <br/> ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white) |
 
-<p align="center">
-    <img src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-    <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
-</p>
+</div>
 
-### CI/CD Tools
+---
 
-<p align="center">
-    <img src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
-    <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-</p>
+### 📊 GitHub Stats
 
-### UI/UX Design
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NaveenDilhan&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="trophy" />
+  <br/><br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=NaveenDilhan&show_icons=true&theme=radical&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenDilhan&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
 
-<p align="center">
-    <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-    <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6.svg?style=for-the-badge&logo=adobexd&logoColor=white" alt="Adobe XD" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NaveenDilhan&theme=radical&hide_border=true" alt="streak stats" />
+</div>
 
-### Version Control & Agile PM
+---
 
-<p align="center">
-    <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
-</p>
-
-### IDEs
-
-<p align="center">
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
-    <img src="https://img.shields.io/badge/Eclipse-%232C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" />
-    <img src="https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
-    <img src="https://img.shields.io/badge/Apache%20NetBeans-%231B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="Apache NetBeans" />
-</p>
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=NaveenDilhan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
