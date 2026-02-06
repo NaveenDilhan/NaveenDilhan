@@ -53,15 +53,17 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NaveenDilhan&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="trophy" />
-  <br/><br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=NaveenDilhan&show_icons=true&theme=radical&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenDilhan&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NaveenDilhan&theme=radical&hide_border=true" alt="streak stats" />
+[![Trophy](https://github-profile-trophy.vercel.app/?username=NaveenDilhan&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br/>
+
+[![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaveenDilhan&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenDilhan&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=NaveenDilhan&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
 </div>
 
 ---
