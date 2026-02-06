@@ -1,5 +1,4 @@
 <div align="center">
-
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   <h1>Hi there, I'm Naveen Dilhan Wickramsinghe</h1>
 
@@ -22,51 +21,54 @@
   </p>
 </div>
 
----
+<hr/>
 
-### 👨‍💻 About Me
+<h3>👨‍💻 About Me</h3>
 
-- 🎓 I'm currently an Undergraduate at **Plymouth University**.
-- 💻 I’m working on **Full Stack Web Development** projects.
-- 🚀 I’m currently learning **Advanced React Patterns** and **Cloud Architecture**.
-- 💬 Ask me about **Java, Angular, or Node.js**.
-- 📫 How to reach me: **naveendilhanwic@gmail.com**
+<ul>
+    <li>🎓 I'm currently an Undergraduate at <b>Plymouth University</b>.</li>
+    <li>💻 I’m working on <b>Full Stack Web Development</b> projects.</li>
+    <li>🚀 I’m currently learning <b>Advanced React Patterns</b> and <b>Cloud Architecture</b>.</li>
+    <li>💬 Ask me about <b>Java, Angular, or Node.js</b>.</li>
+    <li>📫 How to reach me: <b>naveendilhanwic@gmail.com</b></li>
+</ul>
 
----
+<hr/>
 
-### 🛠️ Tech Stack
+<h3>🛠️ Tech Stack</h3>
 
 <div align="center">
-
-| **Frontend** | **Backend** | **Mobile & Languages** |
-|:---:|:---:|:---:|
-| ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) <br/> ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white) <br/> ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) <br/> ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-43853D.svg?style=flat-square&logo=node.js&logoColor=white) <br/> ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) <br/> ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) | ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white) <br/> ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=flat-square&logo=android&logoColor=white) |
-
-| **Database** | **Cloud & DevOps** | **Tools & Design** |
-|:---:|:---:|:---:|
-| ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) <br/> ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=flat-square&logo=oracle&logoColor=white) <br/> ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) | ![AWS](https://img.shields.io/badge/Amazon%20AWS-%23232F3E.svg?style=flat-square&logo=amazon-aws&logoColor=white) <br/> ![GCP](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) <br/> ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white) | ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) <br/> ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) <br/> ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white) |
-
+    <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
+    <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
+    <br/>
+    <img src="https://img.shields.io/badge/Node.js-43853D.svg?style=flat-square&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+    <br/>
+    <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" />
 </div>
 
----
+<hr/>
 
-### 📊 GitHub Stats
+<h3>📊 GitHub Stats</h3>
 
 <div align="center">
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=NaveenDilhan&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+    <img src="https://github-readme-stats.vercel.app/api?username=NaveenDilhan&show_icons=true&theme=radical" alt="Naveen's Stats" height="180"/>
+    
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenDilhan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
+</div>
 
 <br/>
 
-[![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaveenDilhan&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenDilhan&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=NaveenDilhan&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NaveenDilhan&theme=radical&hide_border=true" alt="Streak Stats" />
 </div>
 
----
+<br/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=NaveenDilhan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
