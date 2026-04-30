@@ -1,7 +1,7 @@
 <div align="center">
 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <h1>Hi there, I'm Naveen Dilhan Wickramsinghe</h1>
+  <h1>Hello, I'm Naveen Dilhan Wickramsinghe</h1>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3F51B5&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Freelancer;Undergraduate+@+Plymouth+Uni;Open+Source+Enthusiast" alt="Typing SVG" />
