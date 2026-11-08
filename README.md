@@ -27,7 +27,7 @@
 <h3>👨‍💻 About Me</h3>
 
 <ul>
-    <li>🎓 I'm currently an Undergraduate at <b>Plymouth University</b>.</li>
+    <li>🎓 I'm a Graduate at <b>Plymouth University</b>.</li>
     <li>💻 I’m working on <b>Full Stack Web Development</b> projects.</li>
     <li>🚀 I’m currently learning <b>Advanced React Patterns</b> and <b>Cloud Architecture</b>.</li>
     <li>💬 Ask me about <b>Java, Angular, or Node.js</b>.</li>
